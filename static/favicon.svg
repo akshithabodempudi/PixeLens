@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+    <!-- Camera body -->
+    <rect x="8" y="25" width="84" height="58" rx="14" fill="#181818"></rect>
+
+    <!-- Camera top -->
+    <path d="M28 25 L34 14 H66 L72 25" fill="#181818"></path>
+
+    <!-- Lens outer ring -->
+    <circle cx="50" cy="54" r="22" fill="#f5f2ec"></circle>
+
+    <!-- Lens -->
+    <circle cx="50" cy="54" r="15" fill="#181818"></circle>
+
+    <!-- Lens reflection -->
+    <circle cx="45" cy="49" r="5" fill="#f5f2ec"></circle>
+
+    <!-- Small camera indicator -->
+    <circle cx="77" cy="36" r="4" fill="#f5f2ec"></circle>
+
+</svg>
